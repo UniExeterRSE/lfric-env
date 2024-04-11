@@ -14,7 +14,7 @@ spack spec lfric-env
 spack install lfric-env
 ```
 
-The environment can be load with ```spack load lfric-env```. You are now ready to build LFRic!
+The environment can be loaded with ```spack load lfric-env```. You are now ready to build LFRic!
 
 ### Contributions
 This recipe has been tested on a very small number of platforms, so any feedback about issues or bugs with different platforms are welcome. Feel contribute via issues and pull-requests as well.
